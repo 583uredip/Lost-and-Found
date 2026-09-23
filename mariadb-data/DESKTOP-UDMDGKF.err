@@ -1,0 +1,60 @@
+2026-09-20 12:29:17 0 [Note] Starting MariaDB 10.11.10-MariaDB source revision 3d0fb150289716ca75cd64d62823cf715ee47646 server_uid taFTZtBJvZtEACwEZeVQzw3z/iQ= as process 13936
+2026-09-20 12:29:17 0 [Note] InnoDB: The first data file './ibdata1' did not exist. A new tablespace will be created!
+2026-09-20 12:29:17 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-09-20 12:29:17 0 [Note] InnoDB: Number of transaction pools: 1
+2026-09-20 12:29:17 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-09-20 12:29:17 0 [Note] InnoDB: Initializing buffer pool, total size = 20.000MiB, chunk size = 1.000MiB
+2026-09-20 12:29:17 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-09-20 12:29:17 0 [Note] InnoDB: Setting file './ibdata1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-09-20 12:29:17 0 [Note] InnoDB: File './ibdata1' size is now 12.000MiB.
+2026-09-20 12:29:17 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-09-20 12:29:17 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2026-09-20 12:29:17 0 [Note] InnoDB: 128 rollback segments are active.
+2026-09-20 12:29:17 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-09-20 12:29:17 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2026-09-20 12:29:17 0 [Note] InnoDB: log sequence number 0; transaction id 3
+2026-09-20 12:29:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-09-20 12:29:17 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-09-20 12:30:12 0 [Note] Starting MariaDB 10.11.10-MariaDB source revision 3d0fb150289716ca75cd64d62823cf715ee47646 server_uid SIQlcJy8jAWQTByMrpKxJPqSK8k= as process 22652
+2026-09-20 12:30:12 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-09-20 12:30:12 0 [Note] InnoDB: Number of transaction pools: 1
+2026-09-20 12:30:12 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-09-20 12:30:12 0 [Note] InnoDB: Initializing buffer pool, total size = 128.000MiB, chunk size = 2.000MiB
+2026-09-20 12:30:12 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-09-20 12:30:12 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-09-20 12:30:12 0 [Note] InnoDB: End of log at LSN=46980
+2026-09-20 12:30:12 0 [Note] InnoDB: 128 rollback segments are active.
+2026-09-20 12:30:12 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2026-09-20 12:30:12 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-09-20 12:30:12 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2026-09-20 12:30:12 0 [Note] InnoDB: log sequence number 46980; transaction id 14
+2026-09-20 12:30:12 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-09-20 12:30:12 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\USER\Downloads\mariadb-data\ib_buffer_pool
+2026-09-20 12:30:12 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-09-20 12:30:12 0 [Note] Server socket created on IP: '::'.
+2026-09-20 12:30:12 0 [Note] InnoDB: Buffer pool(s) load completed at 260920 12:30:12
+2026-09-20 12:30:12 0 [Note] Server socket created on IP: '0.0.0.0'.
+2026-09-20 12:30:12 0 [Note] C:\Users\USER\Downloads\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '10.11.10-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2026-09-20 12:32:03 0 [Note] Starting MariaDB 10.11.10-MariaDB source revision 3d0fb150289716ca75cd64d62823cf715ee47646 server_uid SIQlcJy8jAWQTByMrpKxJPqSK8k= as process 15700
+2026-09-20 12:32:03 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2026-09-20 12:32:03 0 [Note] InnoDB: Number of transaction pools: 1
+2026-09-20 12:32:03 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2026-09-20 12:32:03 0 [Note] InnoDB: Initializing buffer pool, total size = 128.000MiB, chunk size = 2.000MiB
+2026-09-20 12:32:03 0 [Note] InnoDB: Completed initialization of buffer pool
+2026-09-20 12:32:03 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2026-09-20 12:32:03 0 [Note] InnoDB: End of log at LSN=46980
+2026-09-20 12:32:03 0 [Note] InnoDB: 128 rollback segments are active.
+2026-09-20 12:32:03 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2026-09-20 12:32:03 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2026-09-20 12:32:03 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2026-09-20 12:32:03 0 [Note] InnoDB: log sequence number 46980; transaction id 14
+2026-09-20 12:32:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-09-20 12:32:03 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\USER\Downloads\mariadb-data\ib_buffer_pool
+2026-09-20 12:32:03 0 [Note] mariadbd.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
+2026-09-20 12:32:03 0 [Note] InnoDB: Buffer pool(s) load completed at 260920 12:32:03
+2026-09-20 12:32:03 0 [Note] Server socket created on IP: '::'.
+2026-09-20 12:32:03 0 [Note] Server socket created on IP: '0.0.0.0'.
+2026-09-20 12:32:03 0 [Note] C:\Users\USER\Downloads\mariadb\bin\mariadbd.exe: ready for connections.
+Version: '10.11.10-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2026-09-20 12:33:26 6 [Warning] Aborted connection 6 to db: 'unconnected' user: 'root' host: 'localhost' (Got an error reading communication packets)
