@@ -1,5 +1,7 @@
 # **AIUB Lost & Found** is a full-stack PHP + MySQL web application designed specifically for the AIUB campus community. Students and staff can report lost or found items, and the system's built-in **smart matching engine** automatically cross-compares new reports against existing ones using multiple criteria — category, keywords, color, brand, location, and date proximity — scoring similarity from **0 to 100%**.
 
+# Go Live:https://aiublostfound.infinityfreeapp.com/index.php?i=1
+
 # When a match crosses the threshold, **both parties are instantly notified** via email and an in-app notification, maximising the chance of reuniting people with their belongings.
 
 ## 🧠 How the Matching Algorithm Works
